@@ -76,14 +76,14 @@ export default function RootLayout({
     <html lang="en">
       <head />
       <body>
-        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2B2FNZTRZR"></script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT0L6L4MYM"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2B2FNZTRZR');
+  gtag('config', 'G-YT0L6L4MYM');
 </script>
           {/* ✅ Your existing site layout */}
         <ClientLayout>{children}</ClientLayout>
