@@ -39,6 +39,8 @@ export const metadata: Metadata = {
     "creative agency USA",
     "branding company UK",
     "web design Canada",
+    "best branding agency for startups”,
+    "website design for businesses”,
   ],
   authors: [{ name: "Naqsh Agency", url: "https://naqsh.agency" }],
   creator: "Naqsh Agency",
