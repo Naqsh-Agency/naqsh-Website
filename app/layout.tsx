@@ -76,6 +76,24 @@ export default function RootLayout({
     <html lang="en">
       <head />
       <body>
+        {/* ✅ Google Analytics (GA4) */}
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-2B2FNZTRZR"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-2B2FNZTRZR');
+            `,
+          }}
+        />
         <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
