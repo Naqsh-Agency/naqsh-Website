@@ -14,21 +14,21 @@ const teamMembers = [
     name: "Azrim Arif",
     role: "Founder & Creative Director",
     description:
-      "With over 8 years of experience in Branding & Full-Stack Developent, Azrim leads our creative team with passion and vision." ,
+      "Azrim is the visionary who architects every Naqsh project. With 8+ years of expertise spanning strategic branding and high-speed Full-Stack development, he ensures every platform is a lightning-fast, SEO-optimized machine engineered with React/Next.js to deliver measurable business growth." ,
   },
   {
     image: profileImg2,
     name: "Karrie",
     role: "Brand Strategist",
     description:
-      "Karrie develops strategic brand frameworks that help our clients connect with their target audience effectively.",
+      "Karrie transforms market noise into clear, dominant brand voices. Specializing in conversion-focused frameworks, she crafts powerful identities that resonate emotionally, guarantee instant recognition, and are strategically positioned to outperform and outsell competitors.",
   },
   {
     image: profileImg3,
     name: "Mughees",
     role: "Full-Stack Developer",
     description:
-      "Full-Stack Development specialized in MERN Stack Development With 5 years of experience in building scalable web applications.",
+      "Mughees is our expert in building scalability and speed from the ground up. He specializes in leveraging technologies like React and the MERN stack to deploy robust, high-availability applications with the rapid load speeds required for top-tier SEO performance.",
   },
 ];
 
