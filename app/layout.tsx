@@ -8,9 +8,21 @@ export const metadata: Metadata = {
     "Transform your business with Naqsh Agency's premium branding, web design, and SEO services. Elevate your brand, drive growth, and achieve measurable results.",
   generator: "Next.js",
   keywords: [
-    "branding agency",
+    // USA-focused
+    "branding agency USA",
+    "web design agency USA",
+    "website development USA",
+    // UK-focused
+    "branding agency UK",
+    "web design agency UK",
+    "creative agency London",
+    // Canada-focused
+    "branding agency Canada",
+    "web design agency Canada",
+    "digital agency Toronto",
+    //General
     "brand Design",
-    "custom website",
+    "website design agency USA",
     "Brand Book",
     "brand style guide",
     "full stake website",
@@ -33,9 +45,9 @@ export const metadata: Metadata = {
   publisher: "Naqsh Agency",
   metadataBase: new URL("https://naqsh.agency"),
   openGraph: {
-    title: "Naqsh Agency | Premium Branding & Web Solutions",
+    title: "Naqsh Agency | Premium Branding & Web Design in USA, UK & Canada",
     description:
-      "Transform your business with premium branding and web solutions",
+      "Work with Naqsh Agency — a creative branding and web design agency serving clients across the USA, UK, and Canada. Elevate your brand with strategy, design, and technology.",
     url: "https://naqsh.agency",
     siteName: "Naqsh Agency",
     locale: "en_US",
@@ -52,6 +64,15 @@ export const metadata: Metadata = {
     icon: "/naqsh-logo.png",
     shortcut: "/naqsh-logo.png",
     apple: "/naqsh-logo.png",
+  },
+  
+  alternates: {
+    canonical: "https://naqsh.agency",
+    languages: {
+      "en-US": "https://naqsh.agency",
+      "en-GB": "https://naqsh.agency/uk",
+      "en-CA": "https://naqsh.agency/ca",
+    },
   },
   themeColor: "#ffffff",
   viewport: {
