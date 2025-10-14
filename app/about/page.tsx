@@ -14,7 +14,7 @@ const teamMembers = [
     name: "Azrim Arif",
     role: "Founder & Creative Director",
     description:
-      "With over 8 years of experience in branding and design, Sarah leads our creative team with passion and vision.",
+      "With over 8 years of experience in Branding & Full-Stack Developent, Azrim leads our creative team with passion and vision." ,
   },
   {
     image: profileImg2,
@@ -25,7 +25,7 @@ const teamMembers = [
   },
   {
     image: profileImg3,
-    name: "Mughees Javed",
+    name: "Mughees",
     role: "Full-Stack Developer",
     description:
       "Full-Stack Development specialized in MERN Stack Development With 5 years of experience in building scalable web applications.",
