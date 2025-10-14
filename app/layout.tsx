@@ -76,6 +76,16 @@ export default function RootLayout({
     <html lang="en">
       <head />
       <body>
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2B2FNZTRZR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2B2FNZTRZR');
+</script>
+          {/* ✅ Your existing site layout */}
         <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
