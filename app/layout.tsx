@@ -74,6 +74,9 @@ export const metadata: Metadata = {
       "en-CA": "https://naqsh.agency/ca",
     },
   },
+  
+  category: "Business, Branding, Web Design",
+  
   themeColor: "#ffffff",
   viewport: {
     width: "device-width",
