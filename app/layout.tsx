@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Naqsh Agency | Premium Branding & Web Solutions",
   description:
     "Transform your business with Naqsh Agency's premium branding, web design, and SEO services. Elevate your brand, drive growth, and achieve measurable results.",
-  generator: "v0.dev",
+  generator: "Next.js",
   keywords: [
     "branding agency",
     "brand Design",
