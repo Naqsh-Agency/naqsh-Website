@@ -898,7 +898,7 @@ export default function Home() {
               <div className="relative group overflow-hidden rounded-lg">
                 <div className="relative h-[400px]">
                   <Image
-                    src="/Brand style guide.jpg?height=400&width=600"
+                    src="/Brand style guide .jpg?height=400&width=600"
                     alt="Project 1"
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-110"
