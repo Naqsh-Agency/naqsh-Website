@@ -680,7 +680,7 @@ export default function Home() {
                         ❝
                       </div>
                       <p className="text-gray-700 italic">
-                        We don't just design—we build brands that{" "}
+                        We don't just design, we build brands that{" "}
                         <span className="font-bold">
                           feel right, stand out, and grow your business
                         </span>
