@@ -911,7 +911,7 @@ export default function Home() {
                     Brand Identity Redesign
                   </h3>
                   <p className="text-white/80 mb-4 opacity-0 group-hover:opacity-100 transition-opacity duration-500 delay-100">
-                    Complete brand overhaul for a tech startup that needed to
+                    Complete brand overhaul for a startup that needed to
                     reposition itself in the market.
                   </p>
                   <Link
